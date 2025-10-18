@@ -133,7 +133,9 @@ Lets guests leave feedback and ratings after their stay. Reviews help build trus
 ### 💳 Payment Integration
 Processes payments securely for confirmed bookings. It supports multiple payment methods and tracks transaction status to ensure smooth financial operations.
 
-## 🔐 API Security
+
+
+## API Security
 Securing the backend APIs is essential to protect sensitive user data, ensure system integrity, and maintain trust across the platform. Below are the key security measures that will be implemented:
 ### 🔑 Authentication
 Authentication verifies the identity of users accessing the system. By implementing secure login mechanisms (e.g., JWT tokens or OAuth), we ensure that only legitimate users can interact with protected endpoints. This is critical for safeguarding personal information and preventing unauthorized access.
@@ -145,6 +147,7 @@ Rate limiting helps prevent abuse and denial-of-service attacks by restricting t
 Sensitive data such as passwords and payment details will be encrypted both in transit (using HTTPS) and at rest. This prevents data leaks and protects user privacy, especially during financial transactions.
 ### 🧪 Input Validation & Sanitization
 All incoming data will be validated and sanitized to prevent injection attacks (e.g., SQL injection, XSS). This ensures that malicious inputs cannot compromise the database or frontend.
+
 
 
 ## CI/CD Pipeline
