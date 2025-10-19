@@ -2,10 +2,10 @@
 
 ================================
 
-## About the Project
+## <u>**About the Project**</u>
 The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security. This project enables learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
 
-## Learning Objective
+## <u>**Learning Objective**</u>
 This project is tailored to enhance your expertise in modern software development practices. By completing these tasks, learners will:
 
 - Master collaborative team workflows using GitHub.
@@ -20,7 +20,7 @@ This project is tailored to enhance your expertise in modern software developmen
 
 - Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
 
-## Requirements
+## <u>**Requirements**</u>
 To successfully complete the project tasks, learners must:
 
 - Have a GitHub account to create and manage repositories.
@@ -34,7 +34,7 @@ To successfully complete the project tasks, learners must:
 - Be comfortable with modern tools such as Docker, GitHub Actions, or similar CI/CD platforms.
 
 
-## Team Roles
+## <u>**Team Roles**</u>
 - ### Backend Developer: 
 Responsible for implementing API endpoints, database schemas, and business logic.
 
@@ -49,7 +49,7 @@ backend services.
 Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
 
-## Technology Stack
+## <u>**Technology Stack**</u>
 - ### Django:
  A high-level Python web framework used for building the RESTful API.
 - ### Django REST Framework: 
@@ -68,7 +68,7 @@ Containerization tool for consistent development and deployment environments.
 Automated pipelines for testing and deploying code changes.
 
 
-## Database Design
+## <u>**Database Design**</u>
 This section outlines the core entities and relationships that form the foundation of the Airbnb clone's database schema.
 
 ### 📌 Key Entities & Fields
@@ -119,7 +119,7 @@ Represents transactions for bookings.
 
 
 
-## Feature Breakdown
+## <u>**Feature Breakdown**</u>
 This section outlines the core features of the Airbnb Clone project, each designed to replicate essential functionality of the real platform and provide a seamless user experience.
 
 ### 👤 User Management
@@ -135,7 +135,7 @@ Processes payments securely for confirmed bookings. It supports multiple payment
 
 
 
-## API Security
+## <u>**API Security**</u>
 Securing the backend APIs is essential to protect sensitive user data, ensure system integrity, and maintain trust across the platform. Below are the key security measures that will be implemented:
 ### 🔑 Authentication
 Authentication verifies the identity of users accessing the system. By implementing secure login mechanisms (e.g., JWT tokens or OAuth), we ensure that only legitimate users can interact with protected endpoints. This is critical for safeguarding personal information and preventing unauthorized access.
@@ -150,7 +150,7 @@ All incoming data will be validated and sanitized to prevent injection attacks (
 
 
 
-## CI/CD Pipeline
+## <u>**CI/CD Pipeline**</u>
 CI/CD (Continuous Integration and Continuous Deployment) pipelines automate the process of building, testing, and deploying code. This ensures that new changes are integrated smoothly and delivered quickly without manual intervention. For a project like an Airbnb clone, CI/CD helps maintain code quality, reduce bugs, and accelerate feature delivery.
 
 #### Key tools that can be used include:
